@@ -1,0 +1,102 @@
+# Conversion-Focused Storefront Revision
+
+- [x] Replace showcase-led emphasis with a high-visibility product catalog directly below a compact search-and-category entry area.
+- [x] Add a business-oriented browse experience with category filters, budget filters, sorting, product count, and a clear grid/list product presentation.
+- [x] Build practical product cards with editorial score, key benefit, price area, saved/compare controls, and a prominent compliant retailer CTA.
+- [x] Preserve restrained trust elements: disclosures, explanation of scoring, and non-misleading price/availability language.
+- [x] Verify desktop and mobile catalog usability, filtering, comparison selection, and outbound CTA feedback.
+- [x] Upgrade the application to support server-side Firebase configuration and protected data operations.
+- [x] Configure Firebase-backed product catalog access without exposing the administrative passcode to the client.
+- [x] Map the existing Firebase product record fields into the storefront, including category, editorial context, approved affiliate destination, and optional image reference.
+- [x] Build the groundwork for a protected admin workflow to manage product records and affiliate destinations.
+- [x] Add a protected admin catalog route that lists live product management records and affiliate-link readiness.
+- [x] Add and verify admin-only server procedures for catalog management reads, with no affiliate URLs or Firebase credentials returned to the browser.
+- [x] Add an authenticated admin-only server procedure that verifies Firebase catalog availability without exposing credentials to browser code.
+- [x] Add live catalog price and editorial-score mapping, including an honest unavailable-price state.
+- [x] Implement working budget and use-case filters plus a grid/list presentation control against Firebase-backed product data.
+- [x] Add a visible scoring methodology explanation adjacent to product discovery.
+- [x] Add and run automated tests for catalog filtering and conduct interaction checks for comparison and retailer CTA behavior.
+- [x] Remove comparison and buying-guide sections and their navigation from the public storefront.
+- [x] Validate the supplied Firebase email/password account against Firebase Authentication without persisting the password in source code.
+- [x] Replace Manus-role administration with a Firebase-authenticated admin workspace restricted to the specified administrator email.
+- [x] Implement Firebase-backed product creation, editing, publishing status, affiliate-link management, and safe deletion from the admin workspace.
+- [x] Verify public catalog updates and admin data operations with automated tests and responsive UI checks.
+- [x] Validate one authenticated Firebase CRUD lifecycle against the public catalog visibility rules: create, publish, update, archive, and delete a temporary product record.
+- [x] Validate the public Firebase catalog loading path hides draft and archived products while showing a published product during an authenticated lifecycle check.
+- [x] Validate publish-state visibility through the exact `loadFirebaseCatalog` function used by the storefront.
+- [x] Replace the single-page navigation with route-aware shared navigation for Shop, Categories, Deals, Cart, and Admin.
+- [x] Build a dedicated Shop page with the complete Firebase-backed searchable product catalog and filters.
+- [x] Build a dedicated Categories page with category selection, category counts, and category-specific product discovery.
+- [x] Build a dedicated Deals page that presents genuine price-context opportunities without fabricated discounts or claims.
+- [x] Replace Saved with a cart page, including add/remove, quantity controls, price summary, and retailer handoff for cart items.
+- [x] Verify desktop and mobile rendering, navigation, Firebase product loading, and cart persistence across all public routes.
+- [x] Remove nested anchor markup from shared route navigation and homepage route cards.
+- [x] Verify all public routes render without nested-anchor console errors.
+- [x] Replace the native Shop sort select with a styled accessible custom sort control.
+- [x] Add a bespoke editorial image featuring contemporary fashion and consumer technology to the homepage.
+- [x] Add a visible admin access link and concise Firebase sign-in guidance without exposing credentials.
+- [x] Verify the refined Shop and home interfaces on desktop and mobile.
+- [x] Add and verify in-product Firebase admin sign-in helper text without exposing credentials.
+- [x] Replace the generated homepage editorial visual with the user-supplied fashion campaign asset.
+- [x] Verify the supplied campaign visual remains balanced and legible on desktop and mobile hero layouts.
+- [x] Replace the static homepage campaign image with an animated branded-product spotlight.
+- [x] Animate the spotlight between named real brand products while showing product image, brand, name, category, and feature context.
+- [x] Verify the product spotlight motion and product identity remain clear on desktop and mobile with reduced-motion support.
+- [x] Add automated coverage for the branded product spotlight rotation and product identity fields.
+- [x] Add and run reduced-motion and manual spotlight-control tests that verify product identity remains visible while auto-rotation is disabled.
+- [x] Add richer spotlight controls: next/previous navigation, an explicit slide count, and a timed progress indicator.
+- [x] Improve the featured-product story with stronger product hierarchy, concise product metadata, and a direct Shop action.
+- [x] Refine the visual transition and product-stage composition for a more premium editorial animation.
+- [x] Verify the upgraded spotlight interaction and layout across desktop, mobile, and reduced-motion modes.
+- [x] Remove the “Brand edit / 2026” label from the homepage spotlight.
+- [x] Select one featured brand product deterministically for each two-day window without an in-process or background scheduler.
+- [x] Update spotlight controls and copy to reflect the two-day feature cadence without continuous automatic product changes.
+- [x] Add tests that verify the two-day rotation boundary and validate the refined spotlight layout.
+- [x] Create a cohesive visual for Automotive, Electronics, Home & Kitchen, Office Supplies, Pet Supplies, Sports & Fitness, and Toys & Games.
+- [x] Integrate the category images into the category cards with legible overlays, preserved category counts, and click targets.
+- [x] Verify every category image treatment on desktop and mobile layouts.
+- [x] Confirm all seven category image assets have completed generation and render as final visuals rather than placeholders.
+- [x] Re-run and document desktop and mobile category-card visual QA for legibility, clipping, and click-target presentation.
+- [x] Remove personal feature-window/timing details and manual controls from the homepage product spotlight while retaining automatic rotation.
+- [x] Add a premium fashion visual to the blank right side of the Shop hero without obstructing catalog search.
+- [x] Verify the refined homepage spotlight and Shop hero on desktop and mobile, including rotation behavior and visual legibility.
+- [x] Confirm the Shop fashion visual has finished generation and is rendered as a final image rather than a placeholder.
+- [x] Re-run and document desktop/mobile visual QA for auto-rotation, clean spotlight UI, search visibility, and fashion-image framing.
+- [x] Add a premium editorial visual to the Categories hero without reducing heading or category-card clarity.
+- [x] Add a premium editorial visual to the Deals hero while preserving its price-context message.
+- [x] Preload priority editorial and category image assets so hero and category visuals appear promptly when pages open.
+- [x] Add clear, credential-safe admin access guidance that points authorised catalog staff to the Firebase sign-in route.
+- [x] Verify image loading, admin access guidance, and responsive hero layouts across desktop and mobile.
+- [x] Confirm the Categories hero asset resolves to a final image and elevate all critical route hero assets to true priority preloads.
+- [x] Re-run and document visual QA for Categories and Deals across desktop/mobile, including image readiness, layout clarity, and safe admin sign-in access.
+- [x] Add an explicit Home destination to the shared storefront navigation with active-route treatment.
+- [x] Replace the small homepage admin text link with a clear Firebase Admin sign-in button that does not expose credentials.
+- [x] Redesign the homepage footer as a more complete, conversion-conscious storefront close with useful navigation and disclosure context.
+- [x] Verify the updated Home navigation, admin action, and footer across desktop and mobile.
+- [x] Re-run and document desktop/mobile QA for the Home nav, Admin sign-in button, and redesigned footer.
+- [x] Remove the Admin sign-in button from the public homepage hero while retaining secure admin access in the footer and at /admin.
+- [x] Verify the cleaned homepage hero on desktop and mobile.
+- [x] Re-run and document desktop/mobile QA for the cleaned homepage hero, including spacing, legibility, and preserved primary CTAs.
+- [x] Replace free-text product category entry with a controlled dropdown containing the established storefront departments.
+- [x] Move Add product and Edit product workflows into focused on-screen modal dialogs that retain context without scrolling.
+- [x] Instrument real visitor, return-visit, search, and category-interest events and surface live aggregate metrics in the admin workspace.
+- [x] Add tests and validate the updated admin product workflows and analytics panel on desktop and mobile.
+- [x] Inspect the authenticated admin analytics dashboard for any non-real or placeholder-style metrics.
+- [x] Replace any non-real analytics presentation with truthful aggregate values or explicit no-data states sourced only from recorded storefront events.
+- [x] Re-validate authenticated admin analytics on desktop and mobile using real event data.
+- [ ] After publishing, verify that genuine production visits, searches, and category selections populate the analytics dashboard without preview-session data.
+- [ ] Review the authenticated admin analytics panel on mobile after production traffic exists, confirming the metrics and product modals remain legible and unclipped.
+- [x] Preload and decode all featured-product spotlight images before automatic rotation reaches them.
+- [x] Add a graceful non-blank loading treatment for any spotlight image that has not completed decoding.
+- [x] Verify smooth featured-product image changes on desktop and mobile without delayed blank artwork.
+- [x] Defer Firebase Storage image uploads at the user’s request because the connected Firebase project requires a billing-plan upgrade; retain direct image URLs instead.
+- [x] Store and edit per-product image crop position so the storefront can frame the selected subject within its product-card aspect ratio.
+- [x] Add a live admin image preview and verify the direct-URL/crop-positioned image renders correctly in public product cards.
+- [x] Document the Firebase Storage enablement and security-rule configuration needed before production uploads.
+- [x] Remove the unavailable Firebase Storage uploader from the public admin interface while preserving the direct-URL crop preview and framing controls.
+- [x] Add regression coverage proving saved catalog image positions render as CSS object-position values on public product cards.
+- [x] Verify the public storefront consumes saved focal-position metadata without creating or modifying a live catalog product solely for testing.
+- [x] Add an integration regression that maps Firebase imageFocusX/imageFocusY through the catalog adapter into a public product-card image style without modifying production data.
+- [ ] Upload the supplied Cozy Cart logo as a managed storefront asset.
+- [ ] Replace the Signal name and prior mark with Cozy Cart branding across shared public navigation, footer, admin, metadata, and browser title.
+- [ ] Verify the new Cozy Cart logo and name remain clear and consistent on desktop and mobile.

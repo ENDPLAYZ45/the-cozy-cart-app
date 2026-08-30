@@ -1,0 +1,24 @@
+export type FirebaseCatalogRecord = {
+  id: string;
+  title?: string;
+  name?: string;
+  category?: string;
+  fit?: string;
+  bestFor?: string[];
+  note?: string;
+  description?: string;
+  editorialVerdict?: string;
+  editorialScore?: number;
+  editorial_score?: number;
+  brand?: string;
+  tag?: string;
+  imageUrl?: string;
+  images?: string[];
+  imageFocusX?: number;
+  imageFocusY?: number;
+  affiliateUrl?: string;
+  affiliate_link?: string;
+  price?: { amount?: number; currency?: string; lastChecked?: string };
+  art?: string;
+  status?: "draft" | "published" | "archived";
+};

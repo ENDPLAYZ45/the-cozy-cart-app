@@ -1,0 +1,1620 @@
+[
+  {
+    "path": ".env.local",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b2cf34944ed04409164b9ffb4417335147950694",
+    "size": 452,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/b2cf34944ed04409164b9ffb4417335147950694"
+  },
+  {
+    "path": ".gitignore",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c7e5630574007f0b970203141b49660b1cfcc756",
+    "size": 1390,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/c7e5630574007f0b970203141b49660b1cfcc756"
+  },
+  {
+    "path": ".gitkeep",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+  },
+  {
+    "path": ".manus-logs",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "a1468f9e62b44b5e93d209b3d297fb1c5576583d",
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/trees/a1468f9e62b44b5e93d209b3d297fb1c5576583d"
+  },
+  {
+    "path": ".manus-logs/browserConsole.log",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "deded0de9982420a17f2b42de725f02b2c33d4c3",
+    "size": 126894,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/deded0de9982420a17f2b42de725f02b2c33d4c3"
+  },
+  {
+    "path": ".manus-logs/networkRequests.log",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "4c54aa3586f2942f13fc6631ef7271fdd5112fe9",
+    "size": 470341,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/4c54aa3586f2942f13fc6631ef7271fdd5112fe9"
+  },
+  {
+    "path": ".manus-logs/sessionReplay.log",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "1dc52590b4716ee49f93a64cdf68ba9700655651",
+    "size": 479958,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/1dc52590b4716ee49f93a64cdf68ba9700655651"
+  },
+  {
+    "path": ".npmrc",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "521a9f7c0773588848ad5fa8a074ceca964a6b41",
+    "size": 22,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/521a9f7c0773588848ad5fa8a074ceca964a6b41"
+  },
+  {
+    "path": ".prettierignore",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "72842592fd0b2d2e7e186e4beeeacada46dabed7",
+    "size": 310,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/72842592fd0b2d2e7e186e4beeeacada46dabed7"
+  },
+  {
+    "path": ".prettierrc",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "67c0bc83c28a85bbcd4cb081fa91d30b4a79fcfd",
+    "size": 310,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/67c0bc83c28a85bbcd4cb081fa91d30b4a79fcfd"
+  },
+  {
+    "path": "admin-analytics-qa.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "635c35890467968167a9996c432f5f3bfd4f2422",
+    "size": 1329,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/635c35890467968167a9996c432f5f3bfd4f2422"
+  },
+  {
+    "path": "api-src",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "d12aa490554c81723474f7ca3c4576fc94930e4e",
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/trees/d12aa490554c81723474f7ca3c4576fc94930e4e"
+  },
+  {
+    "path": "api-src/index.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "8057a933a95f4eca8759bed0d85ba6fb0ebf506d",
+    "size": 939,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/8057a933a95f4eca8759bed0d85ba6fb0ebf506d"
+  },
+  {
+    "path": "api-src/test.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "318c886473a96dbb8ea47697591f3010dd08fe93",
+    "size": 157,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/318c886473a96dbb8ea47697591f3010dd08fe93"
+  },
+  {
+    "path": "client",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "ac86c7cb03236f0e785fc75a5ac20c4388f19cad",
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/trees/ac86c7cb03236f0e785fc75a5ac20c4388f19cad"
+  },
+  {
+    "path": "client/index.html",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ecbb47f2292273ee56ac641c2df3ba615ba38caf",
+    "size": 982,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/ecbb47f2292273ee56ac641c2df3ba615ba38caf"
+  },
+  {
+    "path": "client/public",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "8b66083ad99a65d15192f6d1a1833839a847584b",
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/trees/8b66083ad99a65d15192f6d1a1833839a847584b"
+  },
+  {
+    "path": "client/public/.gitkeep",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+  },
+  {
+    "path": "client/public/__manus__",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "5dde712e06e604176e1c8c2024ef8c02b347a2da",
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/trees/5dde712e06e604176e1c8c2024ef8c02b347a2da"
+  },
+  {
+    "path": "client/public/__manus__/debug-collector.js",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "050455560719c33e2e77041a1db51202aa034f45",
+    "size": 25168,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/050455560719c33e2e77041a1db51202aa034f45"
+  },
+  {
+    "path": "client/public/__manus__/version.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "5cef290293cff66a7ef6e940061e43633ca00cd1",
+    "size": 57,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/5cef290293cff66a7ef6e940061e43633ca00cd1"
+  },
+  {
+    "path": "client/public/favicon.png",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "cd808b829ef5695c2516133060bfc82ffbe3243d",
+    "size": 342846,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/cd808b829ef5695c2516133060bfc82ffbe3243d"
+  },
+  {
+    "path": "client/public/images",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "d359086584f7b9c795709342c73c6fb5a89005a1",
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/trees/d359086584f7b9c795709342c73c6fb5a89005a1"
+  },
+  {
+    "path": "client/public/images/accessories.jpg",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e6fe0b2acc6bd50539d0cba33f44e4e9aadb3bf5",
+    "size": 951164,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/e6fe0b2acc6bd50539d0cba33f44e4e9aadb3bf5"
+  },
+  {
+    "path": "client/public/images/hero.jpg",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "285b8efb3872b21db7da3a1f0bf4be7ac711877a",
+    "size": 690546,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/285b8efb3872b21db7da3a1f0bf4be7ac711877a"
+  },
+  {
+    "path": "client/public/images/model.jpg",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "21b033395b353d2219d7ce9b8b4ace4d9523f165",
+    "size": 821553,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/21b033395b353d2219d7ce9b8b4ace4d9523f165"
+  },
+  {
+    "path": "client/public/images/outfit.jpg",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9bacc360930ad1644a13b76a59fe2ce664093d7d",
+    "size": 649162,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/9bacc360930ad1644a13b76a59fe2ce664093d7d"
+  },
+  {
+    "path": "client/public/logo.png",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d855ec8d899d470cdab031667ddaccd67411ded8",
+    "size": 421351,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/d855ec8d899d470cdab031667ddaccd67411ded8"
+  },
+  {
+    "path": "client/src",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "3ae6b17fdc17c78f4df7250737a0861708849381",
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/trees/3ae6b17fdc17c78f4df7250737a0861708849381"
+  },
+  {
+    "path": "client/src/App.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ef1e7898980dbe35f3f090456481b36f925e15e1",
+    "size": 1980,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/ef1e7898980dbe35f3f090456481b36f925e15e1"
+  },
+  {
+    "path": "client/src/components",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "c8539c189cf2b606a2a39d3aded4ce75c3aedd28",
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/trees/c8539c189cf2b606a2a39d3aded4ce75c3aedd28"
+  },
+  {
+    "path": "client/src/components/AIChatBox.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "1c00871fcd7099a42c6a73b8f96d1ec398d01bd2",
+    "size": 10851,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/1c00871fcd7099a42c6a73b8f96d1ec398d01bd2"
+  },
+  {
+    "path": "client/src/components/DashboardLayout.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "48844b870cb770a04f17697fe51986a410dc8887",
+    "size": 9005,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/48844b870cb770a04f17697fe51986a410dc8887"
+  },
+  {
+    "path": "client/src/components/DashboardLayoutSkeleton.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9ae93351cbc91de54746f6f6b6bb31a448051e8b",
+    "size": 1628,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/9ae93351cbc91de54746f6f6b6bb31a448051e8b"
+  },
+  {
+    "path": "client/src/components/ErrorBoundary.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "1422986082c40e4ae64006dddbc25b8fa1bd48b9",
+    "size": 1688,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/1422986082c40e4ae64006dddbc25b8fa1bd48b9"
+  },
+  {
+    "path": "client/src/components/ManusDialog.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b3d229366d5cb1133721c2f6a01d6980f0057841",
+    "size": 2432,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/b3d229366d5cb1133721c2f6a01d6980f0057841"
+  },
+  {
+    "path": "client/src/components/Map.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "4849e056d161a8ccd910c095da7235d50e856d4a",
+    "size": 4932,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/4849e056d161a8ccd910c095da7235d50e856d4a"
+  },
+  {
+    "path": "client/src/components/ProductCard.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "8978c38349f9f6d6e3dde4a1846b0386d92c2922",
+    "size": 1835,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/8978c38349f9f6d6e3dde4a1846b0386d92c2922"
+  },
+  {
+    "path": "client/src/components/StoreLayout.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d6bebc7b88d32369263965fc0ee800bc3d68d233",
+    "size": 5074,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/d6bebc7b88d32369263965fc0ee800bc3d68d233"
+  },
+  {
+    "path": "client/src/components/StorefrontAnalytics.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "568703be4ef169ed136e5e4abf9815ea7effc74c",
+    "size": 661,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/568703be4ef169ed136e5e4abf9815ea7effc74c"
+  },
+  {
+    "path": "client/src/components/TermsAndConditions.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "914927e795b54b19dac2ba4d3c801db598eab1c6",
+    "size": 33379,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/914927e795b54b19dac2ba4d3c801db598eab1c6"
+  },
+  {
+    "path": "client/src/components/ui",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "5c87b18d7f742ef862e54c68af4530782e591bd3",
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/trees/5c87b18d7f742ef862e54c68af4530782e591bd3"
+  },
+  {
+    "path": "client/src/components/ui/accordion.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "62705e3dedcfc782ec545604f87a6c46ea0355a6",
+    "size": 2048,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/62705e3dedcfc782ec545604f87a6c46ea0355a6"
+  },
+  {
+    "path": "client/src/components/ui/alert-dialog.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "69499798f51dee32fe4dbc0cfa5efd7c41bba49f",
+    "size": 3866,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/69499798f51dee32fe4dbc0cfa5efd7c41bba49f"
+  },
+  {
+    "path": "client/src/components/ui/alert.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "5b1a0b5e303dc73c7e319b46f1711ab9cda16d78",
+    "size": 1622,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/5b1a0b5e303dc73c7e319b46f1711ab9cda16d78"
+  },
+  {
+    "path": "client/src/components/ui/aspect-ratio.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "01d045dd7d07982e0920fb5d99c1cfe77dd61354",
+    "size": 269,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/01d045dd7d07982e0920fb5d99c1cfe77dd61354"
+  },
+  {
+    "path": "client/src/components/ui/avatar.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "02305fd474c861a8296e6d883da235f56684a073",
+    "size": 1090,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/02305fd474c861a8296e6d883da235f56684a073"
+  },
+  {
+    "path": "client/src/components/ui/badge.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "83750ed1654afaa5e2a59b608774bbed393aa758",
+    "size": 1639,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/83750ed1654afaa5e2a59b608774bbed393aa758"
+  },
+  {
+    "path": "client/src/components/ui/breadcrumb.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9d88a372abde7b226376e5b2128f47cf41b11b8e",
+    "size": 2371,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/9d88a372abde7b226376e5b2128f47cf41b11b8e"
+  },
+  {
+    "path": "client/src/components/ui/button-group.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "30139ec4faebfa691a58309779c6074b855266ab",
+    "size": 2220,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/30139ec4faebfa691a58309779c6074b855266ab"
+  },
+  {
+    "path": "client/src/components/ui/button.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6d74f9afd218987d7185dc6b5ddead5c733e4dea",
+    "size": 2097,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/6d74f9afd218987d7185dc6b5ddead5c733e4dea"
+  },
+  {
+    "path": "client/src/components/ui/calendar.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "48d454368f6bfe3880479fb884cb21ec75d9d4c5",
+    "size": 7663,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/48d454368f6bfe3880479fb884cb21ec75d9d4c5"
+  },
+  {
+    "path": "client/src/components/ui/card.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e8c09391c2dedc5e9bf76dc8b4206eea3f2d2e45",
+    "size": 1997,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/e8c09391c2dedc5e9bf76dc8b4206eea3f2d2e45"
+  },
+  {
+    "path": "client/src/components/ui/carousel.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "03a9617491509f46c6a20680c5dab6e31c83c248",
+    "size": 5603,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/03a9617491509f46c6a20680c5dab6e31c83c248"
+  },
+  {
+    "path": "client/src/components/ui/chart.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f93f6c449c09fb2dd7e9b5062d64e2c5f9993a89",
+    "size": 10113,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/f93f6c449c09fb2dd7e9b5062d64e2c5f9993a89"
+  },
+  {
+    "path": "client/src/components/ui/checkbox.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6afea5dd3a8e36722da39a73b96a60d544efe924",
+    "size": 1218,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/6afea5dd3a8e36722da39a73b96a60d544efe924"
+  },
+  {
+    "path": "client/src/components/ui/collapsible.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "849e7b66f5e9e7e2ee849edef452143b94c99fd2",
+    "size": 791,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/849e7b66f5e9e7e2ee849edef452143b94c99fd2"
+  },
+  {
+    "path": "client/src/components/ui/command.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d710807ce59236be582af42265af91952cc7fd15",
+    "size": 4838,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/d710807ce59236be582af42265af91952cc7fd15"
+  },
+  {
+    "path": "client/src/components/ui/context-menu.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "917f14052aa8a7b6b13c3bc03823c2805f1c8fc2",
+    "size": 8284,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/917f14052aa8a7b6b13c3bc03823c2805f1c8fc2"
+  },
+  {
+    "path": "client/src/components/ui/dialog.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9a84318ec908dab52096ee2f5ae6bb30c24ff962",
+    "size": 6024,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/9a84318ec908dab52096ee2f5ae6bb30c24ff962"
+  },
+  {
+    "path": "client/src/components/ui/drawer.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "698dd324d33f6d318a625a5a0828ff043d264a67",
+    "size": 4255,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/698dd324d33f6d318a625a5a0828ff043d264a67"
+  },
+  {
+    "path": "client/src/components/ui/dropdown-menu.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "cc5562574aaace8a5da136d240e0c877d41835b8",
+    "size": 8434,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/cc5562574aaace8a5da136d240e0c877d41835b8"
+  },
+  {
+    "path": "client/src/components/ui/empty.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e0c125a2175c1275f5ccdbc20887a023c7d66504",
+    "size": 2406,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/e0c125a2175c1275f5ccdbc20887a023c7d66504"
+  },
+  {
+    "path": "client/src/components/ui/field.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9e23cfd73f0e590264635c5275c697434549716b",
+    "size": 6057,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/9e23cfd73f0e590264635c5275c697434549716b"
+  },
+  {
+    "path": "client/src/components/ui/form.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0f3ccb67edaa62b36c40b5db085f1ca83600631c",
+    "size": 3801,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/0f3ccb67edaa62b36c40b5db085f1ca83600631c"
+  },
+  {
+    "path": "client/src/components/ui/hover-card.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "cdaae11629950c11a65caa772c5ed5fa018f2971",
+    "size": 1525,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/cdaae11629950c11a65caa772c5ed5fa018f2971"
+  },
+  {
+    "path": "client/src/components/ui/input-group.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "de9ddfd74edea065f6019682bc3d3689ae47eecc",
+    "size": 5066,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/de9ddfd74edea065f6019682bc3d3689ae47eecc"
+  },
+  {
+    "path": "client/src/components/ui/input-otp.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e73a870ca428a9b861fa4263f85bb73343d70763",
+    "size": 2253,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/e73a870ca428a9b861fa4263f85bb73343d70763"
+  },
+  {
+    "path": "client/src/components/ui/input.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "159aa02b52d016654fe0ef85b7626f9c3be11de6",
+    "size": 2728,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/159aa02b52d016654fe0ef85b7626f9c3be11de6"
+  },
+  {
+    "path": "client/src/components/ui/item.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "a0adca27426bd7b0241905e3ec430e5753bbd830",
+    "size": 4513,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/a0adca27426bd7b0241905e3ec430e5753bbd830"
+  },
+  {
+    "path": "client/src/components/ui/kbd.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3add9eadcca76c4bbcb3a3181d1520e40a83bcb5",
+    "size": 866,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/3add9eadcca76c4bbcb3a3181d1520e40a83bcb5"
+  },
+  {
+    "path": "client/src/components/ui/label.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2db054e6d48a61c3ee3245cab1d7093606b85d11",
+    "size": 602,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/2db054e6d48a61c3ee3245cab1d7093606b85d11"
+  },
+  {
+    "path": "client/src/components/ui/menubar.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f914796adefe81f1d1b268189f4a0d56e7245291",
+    "size": 8405,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/f914796adefe81f1d1b268189f4a0d56e7245291"
+  },
+  {
+    "path": "client/src/components/ui/navigation-menu.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "5ed6cb978c38716fe14532716196a6d22a1806d2",
+    "size": 6680,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/5ed6cb978c38716fe14532716196a6d22a1806d2"
+  },
+  {
+    "path": "client/src/components/ui/pagination.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "71d763182e7e73dd61a2c74bb687805f1b142cae",
+    "size": 2726,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/71d763182e7e73dd61a2c74bb687805f1b142cae"
+  },
+  {
+    "path": "client/src/components/ui/popover.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d54f180c51721023e7f0adbecc259c9b50ebf2f1",
+    "size": 1629,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/d54f180c51721023e7f0adbecc259c9b50ebf2f1"
+  },
+  {
+    "path": "client/src/components/ui/progress.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "4c9f4aba8e6b5eaf13428dcac98ecc796d8d6dd5",
+    "size": 731,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/4c9f4aba8e6b5eaf13428dcac98ecc796d8d6dd5"
+  },
+  {
+    "path": "client/src/components/ui/radio-group.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "dbc548e2f3b8a7f6f5b2cc1a2e350ad8ddd33c66",
+    "size": 1459,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/dbc548e2f3b8a7f6f5b2cc1a2e350ad8ddd33c66"
+  },
+  {
+    "path": "client/src/components/ui/resizable.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d703a532250a96e82fb997f7af998afac3eab954",
+    "size": 2023,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/d703a532250a96e82fb997f7af998afac3eab954"
+  },
+  {
+    "path": "client/src/components/ui/scroll-area.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "92b825efa67ab35205c3f5aa23c2be1c1939c133",
+    "size": 1637,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/92b825efa67ab35205c3f5aa23c2be1c1939c133"
+  },
+  {
+    "path": "client/src/components/ui/select.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "98d8d67462d1fb1edd20c703e7a96b3ae8babbe8",
+    "size": 6297,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/98d8d67462d1fb1edd20c703e7a96b3ae8babbe8"
+  },
+  {
+    "path": "client/src/components/ui/separator.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "091415b67c4138d835e5949fce8a02c323c7bae2",
+    "size": 690,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/091415b67c4138d835e5949fce8a02c323c7bae2"
+  },
+  {
+    "path": "client/src/components/ui/sheet.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6d6efec6ab8b153e2afa84d9e1306ca188c188f0",
+    "size": 4107,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/6d6efec6ab8b153e2afa84d9e1306ca188c188f0"
+  },
+  {
+    "path": "client/src/components/ui/sidebar.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2744889fee7e5c3907a238222d626ece16ab79e9",
+    "size": 21947,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/2744889fee7e5c3907a238222d626ece16ab79e9"
+  },
+  {
+    "path": "client/src/components/ui/skeleton.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "01689981c169cb8d70af0a3ee1b3b57d41ebfee1",
+    "size": 279,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/01689981c169cb8d70af0a3ee1b3b57d41ebfee1"
+  },
+  {
+    "path": "client/src/components/ui/slider.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b3204700c1874545807213e30686fd184afac852",
+    "size": 1988,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/b3204700c1874545807213e30686fd184afac852"
+  },
+  {
+    "path": "client/src/components/ui/sonner.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7264637e00958b9f64e6a05222bde2b2aa553a72",
+    "size": 561,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/7264637e00958b9f64e6a05222bde2b2aa553a72"
+  },
+  {
+    "path": "client/src/components/ui/spinner.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "055ac76763ed966520c0b2202fee0e569c6d4a2d",
+    "size": 335,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/055ac76763ed966520c0b2202fee0e569c6d4a2d"
+  },
+  {
+    "path": "client/src/components/ui/switch.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f0767f7367c3978788de63ef7cbc2f61bdb6dc05",
+    "size": 1168,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/f0767f7367c3978788de63ef7cbc2f61bdb6dc05"
+  },
+  {
+    "path": "client/src/components/ui/table.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7d2e59a968fb1017b4ec228bf06a32a57cd25a0c",
+    "size": 2445,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/7d2e59a968fb1017b4ec228bf06a32a57cd25a0c"
+  },
+  {
+    "path": "client/src/components/ui/tabs.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d2c67a7dac4de09097ec9978c0efe5b45378d99b",
+    "size": 1963,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/d2c67a7dac4de09097ec9978c0efe5b45378d99b"
+  },
+  {
+    "path": "client/src/components/ui/textarea.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "df7c37e32be3bb007ce306dfae227c55f22bfd50",
+    "size": 2613,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/df7c37e32be3bb007ce306dfae227c55f22bfd50"
+  },
+  {
+    "path": "client/src/components/ui/toggle-group.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "002e4cc10c788cebb100097e67dfda557c63dd39",
+    "size": 1936,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/002e4cc10c788cebb100097e67dfda557c63dd39"
+  },
+  {
+    "path": "client/src/components/ui/toggle.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "4b556ac85c43353202a463ff9f92c0dedde576ef",
+    "size": 1563,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/4b556ac85c43353202a463ff9f92c0dedde576ef"
+  },
+  {
+    "path": "client/src/components/ui/tooltip.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d0bc4fd86697e89e804b9f00877543a9b9f727bd",
+    "size": 1886,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/d0bc4fd86697e89e804b9f00877543a9b9f727bd"
+  },
+  {
+    "path": "client/src/const.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c05986184ff69245f1b735c45279546045384f7a",
+    "size": 1465,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/c05986184ff69245f1b735c45279546045384f7a"
+  },
+  {
+    "path": "client/src/contexts",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "65de3a73a9bcc9cf3cab296a62a1a71ade1912c8",
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/trees/65de3a73a9bcc9cf3cab296a62a1a71ade1912c8"
+  },
+  {
+    "path": "client/src/contexts/CartContext.test.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f666f095e10595e90b455e5adbc18f4cb1db51c4",
+    "size": 1521,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/f666f095e10595e90b455e5adbc18f4cb1db51c4"
+  },
+  {
+    "path": "client/src/contexts/CartContext.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d16966029846a60bf0fc253ce85a0c8db0eca20e",
+    "size": 1634,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/d16966029846a60bf0fc253ce85a0c8db0eca20e"
+  },
+  {
+    "path": "client/src/contexts/ThemeContext.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "765d93cb95b2f05e72e04fe3a3aa17b16ae46db9",
+    "size": 1467,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/765d93cb95b2f05e72e04fe3a3aa17b16ae46db9"
+  },
+  {
+    "path": "client/src/hooks",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "06060c851c265305da9d270f792bc7aa97f6ed68",
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/trees/06060c851c265305da9d270f792bc7aa97f6ed68"
+  },
+  {
+    "path": "client/src/hooks/useCatalog.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "eb340de30accfac3da9269afec23290a5e096269",
+    "size": 874,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/eb340de30accfac3da9269afec23290a5e096269"
+  },
+  {
+    "path": "client/src/hooks/useComposition.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "8405ad06e16c867b1c32302c060781c87423d5ac",
+    "size": 2333,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/8405ad06e16c867b1c32302c060781c87423d5ac"
+  },
+  {
+    "path": "client/src/hooks/useMobile.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "48fab93c03d088ecd5f2124a4bc585294eab9255",
+    "size": 584,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/48fab93c03d088ecd5f2124a4bc585294eab9255"
+  },
+  {
+    "path": "client/src/hooks/usePersistFn.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6c4c0247138e64d19c4cca0e9c95322066c38725",
+    "size": 471,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/6c4c0247138e64d19c4cca0e9c95322066c38725"
+  },
+  {
+    "path": "client/src/index.css",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "db0f1655c017bc93d2f0cfcc1944d144b6eec1da",
+    "size": 71227,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/db0f1655c017bc93d2f0cfcc1944d144b6eec1da"
+  },
+  {
+    "path": "client/src/lib",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "45848f95c3c4d63365153415f3975b168adaa68b",
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/trees/45848f95c3c4d63365153415f3975b168adaa68b"
+  },
+  {
+    "path": "client/src/lib/analytics.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "1551d7462924ba9b80c0eeceb03458ceb7bb640d",
+    "size": 788,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/1551d7462924ba9b80c0eeceb03458ceb7bb640d"
+  },
+  {
+    "path": "client/src/lib/brandSpotlight.test.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9edbd501a3ff0d56856d9da62f5604f75cd81de0",
+    "size": 1419,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/9edbd501a3ff0d56856d9da62f5604f75cd81de0"
+  },
+  {
+    "path": "client/src/lib/brandSpotlight.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e1097d8d2ac5e99ed1b2677ee9dcf705aae045aa",
+    "size": 1755,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/e1097d8d2ac5e99ed1b2677ee9dcf705aae045aa"
+  },
+  {
+    "path": "client/src/lib/cart.test.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "df63801d0a7519b83296478e1567ba26058c7cf6",
+    "size": 803,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/df63801d0a7519b83296478e1567ba26058c7cf6"
+  },
+  {
+    "path": "client/src/lib/cart.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7141bcc43d156498448cf8066c3102a231ce5cdc",
+    "size": 1184,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/7141bcc43d156498448cf8066c3102a231ce5cdc"
+  },
+  {
+    "path": "client/src/lib/catalog.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "696a1af9c4d0ccf9e570a491315c1ef10215ac8c",
+    "size": 1107,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/696a1af9c4d0ccf9e570a491315c1ef10215ac8c"
+  },
+  {
+    "path": "client/src/lib/catalogFilters.test.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "262d84442bb33d073e2f79465e6dd6d59caad431",
+    "size": 2064,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/262d84442bb33d073e2f79465e6dd6d59caad431"
+  },
+  {
+    "path": "client/src/lib/catalogFilters.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "272945e33a82604d7659fe123e71d567ee79420e",
+    "size": 1614,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/272945e33a82604d7659fe123e71d567ee79420e"
+  },
+  {
+    "path": "client/src/lib/catalogInteractions.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "13da593b42a2736539433c7772daee0327881014",
+    "size": 637,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/13da593b42a2736539433c7772daee0327881014"
+  },
+  {
+    "path": "client/src/lib/catalogSpotlight.test.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "dad703008b8880bc5885c715bccd510f832eb170",
+    "size": 779,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/dad703008b8880bc5885c715bccd510f832eb170"
+  },
+  {
+    "path": "client/src/lib/firebase.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "613667fba809fcbeee08634813d74b6877218225",
+    "size": 585,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/613667fba809fcbeee08634813d74b6877218225"
+  },
+  {
+    "path": "client/src/lib/firebaseAdmin.test.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3d921973c8b0cd18ac7344d6410bae3d9cffe568",
+    "size": 1839,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/3d921973c8b0cd18ac7344d6410bae3d9cffe568"
+  },
+  {
+    "path": "client/src/lib/firebaseAdmin.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "73825d67623f39a243b82d5c5f1d27798fb7ef7d",
+    "size": 2019,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/73825d67623f39a243b82d5c5f1d27798fb7ef7d"
+  },
+  {
+    "path": "client/src/lib/fuzzySearch.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "608afe639bee3bf688da7cb9b9e1f6a90aa89bbe",
+    "size": 2309,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/608afe639bee3bf688da7cb9b9e1f6a90aa89bbe"
+  },
+  {
+    "path": "client/src/lib/trpc.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "df386074e1d3f3616e3e8161a3e1baa0f56772cc",
+    "size": 162,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/df386074e1d3f3616e3e8161a3e1baa0f56772cc"
+  },
+  {
+    "path": "client/src/lib/utils.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "a5ef193506d07d0459fec4f187af08283094d7c8",
+    "size": 169,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/a5ef193506d07d0459fec4f187af08283094d7c8"
+  },
+  {
+    "path": "client/src/main.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "690b15abf77d7ed6fe09c70fed926773d809906e",
+    "size": 2587,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/690b15abf77d7ed6fe09c70fed926773d809906e"
+  },
+  {
+    "path": "client/src/pages",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "bd037587ce8cbded22d54c7e6a364ae579111892",
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/trees/bd037587ce8cbded22d54c7e6a364ae579111892"
+  },
+  {
+    "path": "client/src/pages/AdminAnalytics.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "aa3a1174a873da8023a59313e2d7e8f7cec17cd6",
+    "size": 23239,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/aa3a1174a873da8023a59313e2d7e8f7cec17cd6"
+  },
+  {
+    "path": "client/src/pages/AdminCatalog.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "1a4b00dcc0cc9a6747ccf74495011ccf9ea23531",
+    "size": 32033,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/1a4b00dcc0cc9a6747ccf74495011ccf9ea23531"
+  },
+  {
+    "path": "client/src/pages/Cart.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7af3b7755086f621d3b0386ec5829c7a63760e5f",
+    "size": 3146,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/7af3b7755086f621d3b0386ec5829c7a63760e5f"
+  },
+  {
+    "path": "client/src/pages/Categories.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "484740cbb285c4096e9efe4b0b1e256c16bd7034",
+    "size": 4281,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/484740cbb285c4096e9efe4b0b1e256c16bd7034"
+  },
+  {
+    "path": "client/src/pages/CategoryDetail.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b1ed00f04164d9db5e1a4b98fd8b7392d1f0719b",
+    "size": 10042,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/b1ed00f04164d9db5e1a4b98fd8b7392d1f0719b"
+  },
+  {
+    "path": "client/src/pages/ComponentShowcase.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b7725c2319c59d244bc8ad8db750f19e8a5cb583",
+    "size": 58315,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/b7725c2319c59d244bc8ad8db750f19e8a5cb583"
+  },
+  {
+    "path": "client/src/pages/Deals.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "eb85226a6f3fa442748a7cf863da5f2ba82261c8",
+    "size": 4295,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/eb85226a6f3fa442748a7cf863da5f2ba82261c8"
+  },
+  {
+    "path": "client/src/pages/Fashion.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "236a3e561c92565b2f6ff94fda302f99b39a290d",
+    "size": 8559,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/236a3e561c92565b2f6ff94fda302f99b39a290d"
+  },
+  {
+    "path": "client/src/pages/Home.test.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2ba1c4fbf3f415e317c1150847f09d0f0878091d",
+    "size": 1876,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/2ba1c4fbf3f415e317c1150847f09d0f0878091d"
+  },
+  {
+    "path": "client/src/pages/Home.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e4c2a4d0cad6d01fa7a2e2116c67caaf9eb1bcac",
+    "size": 4698,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/e4c2a4d0cad6d01fa7a2e2116c67caaf9eb1bcac"
+  },
+  {
+    "path": "client/src/pages/NotFound.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c4374ee7a2f4d832bc8510c40953c558246079ad",
+    "size": 1819,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/c4374ee7a2f4d832bc8510c40953c558246079ad"
+  },
+  {
+    "path": "client/src/pages/Shop.tsx",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7f8720fe295210e899153e14a8582d46db5d3ae7",
+    "size": 9033,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/7f8720fe295210e899153e14a8582d46db5d3ae7"
+  },
+  {
+    "path": "components.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c1919783e91b1bb4993fc904018c4f6a524f9d05",
+    "size": 388,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/c1919783e91b1bb4993fc904018c4f6a524f9d05"
+  },
+  {
+    "path": "direct-image-framing-qa.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "80606d5c6460c526b73015fa39bcced51b3e03f4",
+    "size": 1579,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/80606d5c6460c526b73015fa39bcced51b3e03f4"
+  },
+  {
+    "path": "drizzle.config.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "321752c105fa7328c5de2a53dbbef957eaac15df",
+    "size": 353,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/321752c105fa7328c5de2a53dbbef957eaac15df"
+  },
+  {
+    "path": "drizzle",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "f182ec701fb68cf6e16b90505cfbe72ac6dad87f",
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/trees/f182ec701fb68cf6e16b90505cfbe72ac6dad87f"
+  },
+  {
+    "path": "drizzle/0000_mysterious_the_anarchist.sql",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f3d25ffe9c12712474775f53f07b21db70f0fcd1",
+    "size": 1353,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/f3d25ffe9c12712474775f53f07b21db70f0fcd1"
+  },
+  {
+    "path": "drizzle/relations.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "941a2680ecb07e975c52555be045261d007181ae",
+    "size": 27,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/941a2680ecb07e975c52555be045261d007181ae"
+  },
+  {
+    "path": "drizzle/schema.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "cf0e30f39bcd2cbeead0dae72e55c5f50e7363d4",
+    "size": 2260,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/cf0e30f39bcd2cbeead0dae72e55c5f50e7363d4"
+  },
+  {
+    "path": "hero-image-qa.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "319ba977aacbc5ca3d8c2eabc37311b1543b5d69",
+    "size": 1276,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/319ba977aacbc5ca3d8c2eabc37311b1543b5d69"
+  },
+  {
+    "path": "home-footer-qa.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9081ba54256a425d12f7f9e7a9b54d7d52307aa1",
+    "size": 832,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/9081ba54256a425d12f7f9e7a9b54d7d52307aa1"
+  },
+  {
+    "path": "home-hero-cleanup-qa.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "4aaa38eaf8fd8523fae344ce724e118b7c5bac7f",
+    "size": 799,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/4aaa38eaf8fd8523fae344ce724e118b7c5bac7f"
+  },
+  {
+    "path": "ideas.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e416bc17e2696d21501c5dd765a472a373cdc38f",
+    "size": 6030,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/e416bc17e2696d21501c5dd765a472a373cdc38f"
+  },
+  {
+    "path": "netlify.toml",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "983845baf36804f7908e0ce9622ea74ef32be04f",
+    "size": 275,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/983845baf36804f7908e0ce9622ea74ef32be04f"
+  },
+  {
+    "path": "netlify",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "9ceb3da1e867274cdfb2437438f2f18666fcdb24",
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/trees/9ceb3da1e867274cdfb2437438f2f18666fcdb24"
+  },
+  {
+    "path": "netlify/functions",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "c5b3dd26b667a72e0498ca7c0bfc5fe5a9132fe6",
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/trees/c5b3dd26b667a72e0498ca7c0bfc5fe5a9132fe6"
+  },
+  {
+    "path": "netlify/functions/api.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "dab6baab99abca6b38a44de5ba8c61e29e859708",
+    "size": 131,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/dab6baab99abca6b38a44de5ba8c61e29e859708"
+  },
+  {
+    "path": "package-lock.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "86e2223eaa58d96be28495453fbed15fba16fa2c",
+    "size": 497533,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/86e2223eaa58d96be28495453fbed15fba16fa2c"
+  },
+  {
+    "path": "package.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "74f56c25d652af44562c18c9a7cfa4706fd35796",
+    "size": 3806,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/74f56c25d652af44562c18c9a7cfa4706fd35796"
+  },
+  {
+    "path": "patches",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "eb89db25f63fa2590978127a5be1d26a3fbe5f02",
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/trees/eb89db25f63fa2590978127a5be1d26a3fbe5f02"
+  },
+  {
+    "path": "patches/wouter@3.7.1.patch",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "133e386e0e3c254c3c59d0db99dfd82e1837228f",
+    "size": 918,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/133e386e0e3c254c3c59d0db99dfd82e1837228f"
+  },
+  {
+    "path": "real-analytics-qa.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "06a62b3c81ed340eb1e7bfa25d0843dd835c711d",
+    "size": 1131,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/06a62b3c81ed340eb1e7bfa25d0843dd835c711d"
+  },
+  {
+    "path": "server",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "f7624f9ad1b2bc25e41ebd3f45c01757583215d1",
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/trees/f7624f9ad1b2bc25e41ebd3f45c01757583215d1"
+  },
+  {
+    "path": "server/_core",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "11170d24962e13d50a5e0ed4ff22682e7bc200c6",
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/trees/11170d24962e13d50a5e0ed4ff22682e7bc200c6"
+  },
+  {
+    "path": "server/_core/context.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e4ae108e5c326e4bfbee9144980a2336af876b6e",
+    "size": 658,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/e4ae108e5c326e4bfbee9144980a2336af876b6e"
+  },
+  {
+    "path": "server/_core/cookies.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "424872c30ce4103d8ad85a6def40e51429e0c4e8",
+    "size": 1299,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/424872c30ce4103d8ad85a6def40e51429e0c4e8"
+  },
+  {
+    "path": "server/_core/dataApi.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7ef81b5c1c760e71be1cf130e94c822a3bdf8349",
+    "size": 1899,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/7ef81b5c1c760e71be1cf130e94c822a3bdf8349"
+  },
+  {
+    "path": "server/_core/env.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2792b99ebd9d9a07c1194237822d8adf06ba2441",
+    "size": 428,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/2792b99ebd9d9a07c1194237822d8adf06ba2441"
+  },
+  {
+    "path": "server/_core/heartbeat.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "378da2409dce641402e43624b2251f11f9e5b4d5",
+    "size": 6784,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/378da2409dce641402e43624b2251f11f9e5b4d5"
+  },
+  {
+    "path": "server/_core/imageGeneration.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9cd4ed4282d1d06ada282d023e5d18c33d23d2ab",
+    "size": 4458,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/9cd4ed4282d1d06ada282d023e5d18c33d23d2ab"
+  },
+  {
+    "path": "server/_core/index.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "12417bcaf83a5e713e8bec87265be6aedc11042e",
+    "size": 2116,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/12417bcaf83a5e713e8bec87265be6aedc11042e"
+  },
+  {
+    "path": "server/_core/llm.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "14e0da25a82520d5d2166cbd2a5f005e5e1eb16f",
+    "size": 10778,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/14e0da25a82520d5d2166cbd2a5f005e5e1eb16f"
+  },
+  {
+    "path": "server/_core/map.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ac2c28c3e446a325f816060a47125f8a2cc9301b",
+    "size": 9151,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/ac2c28c3e446a325f816060a47125f8a2cc9301b"
+  },
+  {
+    "path": "server/_core/notification.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "889a573b5eab3383b56873b7c2e8ee971ca219c4",
+    "size": 3139,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/889a573b5eab3383b56873b7c2e8ee971ca219c4"
+  },
+  {
+    "path": "server/_core/oauth.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "a3b0636587fcb2d2aa76ee835dfe47c69efb9e19",
+    "size": 2429,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/a3b0636587fcb2d2aa76ee835dfe47c69efb9e19"
+  },
+  {
+    "path": "server/_core/sdk.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f505e7fbbcbf4dbb8df06c2c60ee98b2853fede4",
+    "size": 10054,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/f505e7fbbcbf4dbb8df06c2c60ee98b2853fede4"
+  },
+  {
+    "path": "server/_core/storageProxy.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f3ed6a1191da3aba8025bf0834b7d22dc2244958",
+    "size": 1590,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/f3ed6a1191da3aba8025bf0834b7d22dc2244958"
+  },
+  {
+    "path": "server/_core/systemRouter.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "babf6a468495908f0b9ed15bdb8380b814a12b37",
+    "size": 709,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/babf6a468495908f0b9ed15bdb8380b814a12b37"
+  },
+  {
+    "path": "server/_core/trpc.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "a0bcc0586e229fd426061faeba5b12aaf7f54f6e",
+    "size": 1033,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/a0bcc0586e229fd426061faeba5b12aaf7f54f6e"
+  },
+  {
+    "path": "server/_core/types",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "6e8238a45ccfba7a32f2b4ec4574eac1e9687998",
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/trees/6e8238a45ccfba7a32f2b4ec4574eac1e9687998"
+  },
+  {
+    "path": "server/_core/types/cookie.d.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d6d4e8866751a566b2d30fc83ea051caf941611c",
+    "size": 137,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/d6d4e8866751a566b2d30fc83ea051caf941611c"
+  },
+  {
+    "path": "server/_core/types/manusTypes.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7f8e30076d3e9f3ec7cc5d96a27e2af228cae9a6",
+    "size": 1406,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/7f8e30076d3e9f3ec7cc5d96a27e2af228cae9a6"
+  },
+  {
+    "path": "server/_core/vite.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "1f420a5fc2b3643a1cf5c1ab021e462dcf16d28f",
+    "size": 1691,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/1f420a5fc2b3643a1cf5c1ab021e462dcf16d28f"
+  },
+  {
+    "path": "server/_core/voiceTranscription.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ed511f6963e9cd25391521a38a5c27dd940f2ed9",
+    "size": 8107,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/ed511f6963e9cd25391521a38a5c27dd940f2ed9"
+  },
+  {
+    "path": "server/analytics.test.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0f3c9758a0c80b44057e3ba687c6c3edb66dbb0f",
+    "size": 1091,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/0f3c9758a0c80b44057e3ba687c6c3edb66dbb0f"
+  },
+  {
+    "path": "server/analytics.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6e6acf3aadb26b3dfd0525d619442c75723b60f8",
+    "size": 7006,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/6e6acf3aadb26b3dfd0525d619442c75723b60f8"
+  },
+  {
+    "path": "server/auth.logout.test.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3071539532500b97a848132fe01ad9fe2781e8b0",
+    "size": 1625,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/3071539532500b97a848132fe01ad9fe2781e8b0"
+  },
+  {
+    "path": "server/catalog.admin.test.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b2c8060c89a3dfae08c670db566a90892160f0ef",
+    "size": 1696,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/b2c8060c89a3dfae08c670db566a90892160f0ef"
+  },
+  {
+    "path": "server/db.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "795c20511b93dc66f27a171fddaade57e3e408bf",
+    "size": 2511,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/795c20511b93dc66f27a171fddaade57e3e408bf"
+  },
+  {
+    "path": "server/firebase.catalog.loader.test.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "5d0598ebeb3058fb38eb8c7ac24a64b75f712810",
+    "size": 2165,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/5d0598ebeb3058fb38eb8c7ac24a64b75f712810"
+  },
+  {
+    "path": "server/firebase.config.test.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "10a8d1dba14d9e5ce404e1e0004d42de4b9a542b",
+    "size": 2341,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/10a8d1dba14d9e5ce404e1e0004d42de4b9a542b"
+  },
+  {
+    "path": "server/firebaseCatalog.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9bb214d799c3c3dd3555429d2abc7518a857581f",
+    "size": 8145,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/9bb214d799c3c3dd3555429d2abc7518a857581f"
+  },
+  {
+    "path": "server/index.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "70704f76a3f84b2d5f4b2ad8a0ed8fe20f56a3d1",
+    "size": 919,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/70704f76a3f84b2d5f4b2ad8a0ed8fe20f56a3d1"
+  },
+  {
+    "path": "server/routers.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6e35ec1aa8db61743f2bbbd92a9da41c2b696ef3",
+    "size": 6073,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/6e35ec1aa8db61743f2bbbd92a9da41c2b696ef3"
+  },
+  {
+    "path": "server/storage.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "1ed09aec808ae894a7d4705da1dd2a5f282729a7",
+    "size": 3706,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/1ed09aec808ae894a7d4705da1dd2a5f282729a7"
+  },
+  {
+    "path": "shared",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "931743fa9904692c4267094f560b0d679b4da713",
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/trees/931743fa9904692c4267094f560b0d679b4da713"
+  },
+  {
+    "path": "shared/_core",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "2a8a6c493532c549ca8a602968cb169269a0ed38",
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/trees/2a8a6c493532c549ca8a602968cb169269a0ed38"
+  },
+  {
+    "path": "shared/_core/errors.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "15fa7ed2b30ba57b317c878422f42be92ca6a2c0",
+    "size": 601,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/15fa7ed2b30ba57b317c878422f42be92ca6a2c0"
+  },
+  {
+    "path": "shared/const.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c1765ebdb852592b345baa4450a904e112a05f1a",
+    "size": 1549,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/c1765ebdb852592b345baa4450a904e112a05f1a"
+  },
+  {
+    "path": "shared/types.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "47ca6e0ce7e588a4eec5502534f678fec47d3eb4",
+    "size": 158,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/47ca6e0ce7e588a4eec5502534f678fec47d3eb4"
+  },
+  {
+    "path": "spotlight-image-qa.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3d09810e73f5a9f50a64b2f1e02bce356af65f4b",
+    "size": 865,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/3d09810e73f5a9f50a64b2f1e02bce356af65f4b"
+  },
+  {
+    "path": "template.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3bdfaa329cf345275372bf22a914a44160f98d5c",
+    "size": 14353,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/3bdfaa329cf345275372bf22a914a44160f98d5c"
+  },
+  {
+    "path": "todo.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "5d304ec53b0c8b5cdc9ba8e589ad1ef2981064e8",
+    "size": 12212,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/5d304ec53b0c8b5cdc9ba8e589ad1ef2981064e8"
+  },
+  {
+    "path": "tsconfig.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "a0203eefcb88d0dcf5e5ff0e2f90150a1b46ee05",
+    "size": 657,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/a0203eefcb88d0dcf5e5ff0e2f90150a1b46ee05"
+  },
+  {
+    "path": "tsconfig.node.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0d3d71446a455c5f997e3cffb25099dab0f74a9b",
+    "size": 479,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/0d3d71446a455c5f997e3cffb25099dab0f74a9b"
+  },
+  {
+    "path": "vercel-trigger.txt",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "de0d61fc4a723e0933980b99b4362cb06c7c36e5",
+    "size": 24,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/de0d61fc4a723e0933980b99b4362cb06c7c36e5"
+  },
+  {
+    "path": "vercel.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7f1e3652d4c874d6644afb706c30af8e9b616131",
+    "size": 140,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/7f1e3652d4c874d6644afb706c30af8e9b616131"
+  },
+  {
+    "path": "visual-qa.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "34e50aedee2c40509676dbcaab381093c9d7882a",
+    "size": 1191,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/34e50aedee2c40509676dbcaab381093c9d7882a"
+  },
+  {
+    "path": "vite.config.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "916f482b01832df6d4f393df527f4b0598253d8f",
+    "size": 5758,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/916f482b01832df6d4f393df527f4b0598253d8f"
+  },
+  {
+    "path": "vitest.config.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "a456dce0b2043728b1c1dc6e6d87480ba72ecd87",
+    "size": 640,
+    "url": "https://api.github.com/repos/ENDPLAYZ45/the-cozy-cart-app/git/blobs/a456dce0b2043728b1c1dc6e6d87480ba72ecd87"
+  }
+]
